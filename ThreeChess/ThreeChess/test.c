@@ -27,10 +27,10 @@ int main()
 		memset(board, ' ', sizeof(char)*LINE*LIST);
 		menu();
 		scanf("%d", &input);
+		printf("\n");
 		switch (input)
 		{
 		case 1:a = game(board);
-		//	ChessBoard(board,LINE,LIST);
 			break;
 		case 0:break;
 		default:printf("你的输入不符合要求，请重新输入>:"); break;

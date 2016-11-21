@@ -17,7 +17,7 @@ void ChessBoard(char board[LINE][LIST])
 
 int game(char board[LINE][LIST])
 {
-	ChessBoard(board);
+	ChessBoard(board);//为了使电脑赢了之后可以显示出棋盘来
 	while (1)
 	{
 		Player(board);
@@ -39,15 +39,20 @@ int game(char board[LINE][LIST])
 void Player(char board[LINE][LIST])
 {
 	int x = 0, y = 0;
+	int m = 1;//设置m是为了使输入数据不合法
 	printf("玩家玩\n请输入坐标>:");
-	while ((x < 1 || x > 3) || (x < 1 && x > 3))
+	while (m)
 	{
 		scanf("%d%d", &x, &y);
 		printf("\n");
-		if ((x >= 1 && x <= 3) && (x >= 1 && x <= 3) && (board[x - 1][y - 1] == ' '))
+		if ((x >= 1 && x <= 3) && (board[x - 1][y - 1] == ' '))
 		{
 			board[x - 1][y - 1] = 'X';
-			break;
+			m = 0;
+		}
+		else
+		{
+			printf("数据不符合要求\n请重新输入>:");
 		}
 	}
 }
@@ -101,7 +106,7 @@ int Check(char board[LINE][LIST])   //When you pass an array, you must add the b
 			{
 				flag++;
 			}
-			
+
 		}
 		if (9 == flag)
 		{
