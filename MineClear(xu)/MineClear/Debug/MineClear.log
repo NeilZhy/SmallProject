@@ -1,0 +1,4 @@
+﻿  MineClear.c
+d:\program files (x86)\microsoft visual studio 11.0\code\mineclear\mineclear\mineclear.h(147): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+d:\program files (x86)\microsoft visual studio 11.0\code\mineclear\mineclear\mineclear.h(107): warning C4715: “CheckMine”: 不是所有的控件路径都返回值
+  MineClear.vcxproj -> D:\Program Files (x86)\Microsoft Visual Studio 11.0\Code\MineClear\Debug\MineClear.exe
