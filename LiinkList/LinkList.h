@@ -19,5 +19,15 @@ pNode Find(pLinkList pplink);
 void Remove(pLinkList *pplink);
 void Insert(pLinkList *pplink);
 void Destroy(pLinkList *pplink);
+void EraseNotTail(pNode pos);
+void ReverseList1(pLinkList *pplist);
+void ReverseList2(pLinkList *pplist);
+void BubbleSortLink(pLinkList plist);
+void InserFroveNode(pNode pos);
+pLinkList MyMerge(pLinkList *pl1, pLinkList *pl2);
+pNode Josepfcycle(pLinkList *pplist, int num);
+pNode CheckCycle(pLinkList plist);
+int CheckNumCycle(pLinkList plist);
+pNode CheckInCycle(pLinkList plist);
 
 #endif  //__LINKLIST_H__
