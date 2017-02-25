@@ -7,21 +7,22 @@
 void menu()
 {
 	printf("\n");
-	printf("************************************\n");
-	printf("****  1.PushBack  2. PopBack  ******\n");
-	printf("****  3.PushFront 4.PopFront  ******\n");
-	printf("****  5.Show      6.Find      ******\n");
-	printf("****  7.Remove    8.Insert    ******\n");
-	printf("****  9.Destroy   10.EraseNotTail***\n");
-	printf("****  11.ReverseList1(头插法) ******\n");
-	printf("****  12.ReverseList2(数组指针法)***\n");
-	printf("****  13.BubbleSortLink       ******\n");
-	printf("****  14.InserFroveNode       ******\n");
-	printf("****  15.MyMerge  16.Josepfcycle ***\n");
-	printf("****  17.CheckCycle 18.CheckNumCycle ***\n");
-	printf("****  19.CheckInCycle       ******\n");
-	printf("****        0. exit           ******\n");
-	printf("************************************\n");
+	printf("****************************************\n");
+	printf("****  1.PushBack     2. PopBack    *****\n");
+	printf("****  3.PushFront    4.PopFront    *****\n");
+	printf("****  5.Show         6.Find        *****\n");
+	printf("****  7.Remove       8.Insert      *****\n");
+	printf("****  9.Destroy      10.EraseNotTail****\n");
+	printf("****  11.ReverseList1(头插法)      *****\n");
+	printf("****  12.ReverseList2(数组指针法)  *****\n");
+	printf("****  13.BubbleSortLink            *****\n");
+	printf("****  14.InserFroveNode            *****\n");
+	printf("****  15.MyMerge     16.Josepfcycle ****\n");
+	printf("****  17.CheckCycle  18.CheckNumCycle **\n");
+	printf("****  19.CheckInCycle 20.ShowReversely**\n");
+	printf("****  21.CopuComplexList           *****\n");
+	printf("****        0. exit                *****\n");
+	printf("****************************************\n");
 }
 
 void test()
@@ -80,6 +81,10 @@ void test()
 		case 18:CheckNumCycle(plink);
 			break;
 		case 19:CheckInCycle(plink);
+			break;
+		case 20:ShowReversely(plink);
+			break;
+		case 21:CopuComplexList();
 			break;
 		default:printf("输入有误，请重新输入\n");
 		}

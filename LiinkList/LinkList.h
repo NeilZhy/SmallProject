@@ -8,6 +8,13 @@ typedef struct Node
 	struct Node* next;
 }Node, *pNode,*pLinkList;
 
+typedef struct ComplexNode
+{
+	DataType data;
+	struct ComplexNode *next;
+	struct ComplexNode *random;
+}ComplexNode, *pComplexNode;
+
 void InitList(pLinkList *plink);
 void Show(pLinkList plink);
 void PushBack(pLinkList *plink);
@@ -29,5 +36,7 @@ pNode Josepfcycle(pLinkList *pplist, int num);
 pNode CheckCycle(pLinkList plist);
 int CheckNumCycle(pLinkList plist);
 pNode CheckInCycle(pLinkList plist);
+void ShowReversely(pLinkList plist);
+void CopuComplexList();
 
 #endif  //__LINKLIST_H__

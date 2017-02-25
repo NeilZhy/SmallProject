@@ -501,3 +501,85 @@ pNode CheckInCycle(pLinkList plist)
 	printf("入口点是 %d\n",node1->data);
 	return node1;
 }
+
+//逆序打印，采用递归实现
+void ShowReversely(pLinkList plist)
+{
+	pNode cur = plist;
+	if (NULL == plist)
+	{
+		printf("链表为空\n");
+		return;
+	}
+	if (cur->next)
+	{
+		ShowReversely(cur->next);
+	}
+	printf("%d ",cur->data);
+}
+
+//复制复杂链表
+void CopuComplexList()
+{
+	ComplexNode n1;  //构造复杂链表
+	ComplexNode n2;
+	ComplexNode n3;
+	ComplexNode n4;
+	pComplexNode cur = &n1;
+	pComplexNode cur2 = &n1;
+	pComplexNode newList;
+	pComplexNode newnode;
+	n1.data = 1;
+	n1.next = &n2;
+	n1.random = &n3;
+	n2.data = 2;
+	n2.next = &n3;
+	n2.random = &n4;
+	n3.data = 3;
+	n3.next = &n4;
+	n3.random = &n4;
+	n3.data = 3;
+	n3.next = &n4;
+	n3.random = &n4;
+	n4.data = 4;
+	n4.next = NULL;
+	n4.random = &n1;
+	while (cur)	//测试打印
+	{
+		printf("data %d  ran %d ",cur->data,cur->random->data);
+		cur = cur->next;
+	}
+	cur = &n1;
+	while (cur)  //开辟新空间，将其链接如每个后面，然后复制好data
+	{
+		//next = cur->next;
+		newnode = (pComplexNode)malloc(sizeof(ComplexNode));
+		newnode->next = cur->next;
+		newnode->data = cur->data;
+		cur->next = newnode;
+		cur = cur->next->next;
+	}
+	cur = &n1;
+	while (cur)  //复制random
+	{
+		cur->next->random = cur->random->next;
+		cur = cur->next->next;
+	}
+	newList = (&n1)->next;
+	cur = &n1;
+	cur2 = cur->next;
+	while (cur2)   //断开
+	{
+		cur->next = cur2->next;
+		cur = cur2->next;
+		if (cur2->next == NULL)
+			break;
+		cur2->next = cur->next;
+		cur2 = cur->next;
+	}
+	while (newList)	//测试打印
+	{
+		printf("data %d  ran %d ", newList->data, newList->random->data);
+		newList = newList->next;
+	}
+}
