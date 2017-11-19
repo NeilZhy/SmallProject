@@ -47,28 +47,33 @@ int connetser()
     printf("数据发送成功了\n");
     char buf[4000];
     char arr[4000];
-    char **pin = &buf;
-    char **pout = &arr;
+    char *pin = buf;
+    char *pout = arr;
     memset(arr,0,4000);
-    size_t olen = 30;
+    size_t olen = 4000;
     memset(buf,0,4000);
     recv(sock,buf,3999,0);
+    FILE* fp = fopen("txt", "a+");
+
+    fwrite(buf,sizeof(buf),1,fp);
+    fclose(fp);
+
 
     size_t len = strlen(buf); 
     printf("%d\n",len);
-    printf("哈哈\n");
-    iconv_t cd = iconv_open("unicode","gb2312");
-    printf("哈哈");
+    printf("aaaaaaaaaaaaaaaaaaaa\n");
+    iconv_t cd = iconv_open("utf-8","gb2312");
+    printf("aaaaaaaaaaaaaaaaaaaa\n");
     if(cd == 0)
     {
         printf("error");
         return 0;
     }
 
-    if((iconv(cd,pin,&len,pout,&olen)) ==(iconv_t)-1)
+    if(iconv(cd,&pin,&len,&pout,&olen) == -1)
     {
-        printf("转马错误\n");
-        return 0;
+        printf("转码错误\n");
+        //return 0;
     }
 
     iconv_close(cd);
@@ -77,7 +82,6 @@ int connetser()
 
 //这里把recv函数返回的数值大小返回来，因为我们在读取数据的时候，可能存在一个问题就是，打印的时候可能遇到了\0然后就没有打印完全
 //
-//    printf("%s\n",buf);
     printf("%s\n",arr);
     printf("%d\n",len);
     printf("%d",olen);
