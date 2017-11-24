@@ -45,18 +45,18 @@ int connetser()
 
     send(sock,echo_line,strlen(echo_line),0);
     printf("数据发送成功了\n");
-    char buf[4000];
-    char arr[4000];
+    char buf[10000];
+    char arr[10000];
     char *pin = buf;
     char *pout = arr;
-    memset(arr,0,4000);
-    size_t olen = 4000;
-    memset(buf,0,4000);
-    recv(sock,buf,3999,0);
-    FILE* fp = fopen("txt", "a+");
-
-    fwrite(buf,sizeof(buf),1,fp);
-    fclose(fp);
+    memset(arr,0,10000);
+    size_t olen = 10000;
+    memset(buf,0,10000);
+    recv(sock,buf,9999,MSG_WAITALL);
+//    FILE* fp = fopen("txt", "a+");
+//
+//    fwrite(buf,sizeof(buf),1,fp);
+//    fclose(fp);
 
 
     size_t len = strlen(buf); 
