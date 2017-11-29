@@ -41,29 +41,37 @@ int connetser()
     }
 
 
-    const char* echo_line = "GET /chaxun/bus/busreserch2.asp?keyword=336&submit= HTTP/1.1\r\nHost: www.xianyz.com\r\nConnection: keep-alive\r\nCache-Control: max-age=0\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate, sdch\r\nAccept-Language: zh-CN,zh;q=0.8\r\nCookie: ASPSESSIONIDCQSAADAD=BEGIDJODNHHHDIAEMMEHCHFI\r\n\r\n";
-
+   // const char* echo_line = "GET /chaxun/bus/busreserch2.asp?keyword=336&submit= HTTP/1.1\r\nHost: www.xianyz.com\r\nConnection: keep-alive\r\nCache-Control: max-age=0\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate, sdch\r\nAccept-Language: zh-CN,zh;q=0.8\r\nCookie: ASPSESSIONIDCQSAADAD=BEGIDJODNHHHDIAEMMEHCHFI\r\n\r\n";
+    //const char* echo_line = "GET /chaxun/bus/busreserch2.asp?keyword=336&submit= HTTP/1.1\r\nHost: www.xianyz.com\r\nUser-Agent: Mozilla/5.0 (X11; Linux i686; rv:52.0 ) Gecko/20100101 Firefox/52.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: ASPSESSIONIDASSDBCAD=ONPANMLFCHMBOJHPNDBFFBOJK\r\nConnection: keep-alive\r\nUpgrade-Insecure-Requests: 1\r\n\r\n";
+    printf("请输入你要查询的车次：\n");
+    char busarr[5];
+    scanf("%s",busarr);
+    char echo_line[420] = "GET /chaxun/bus/busreserch2.asp?keyword=";
+    char echo_line2[] = "&submit= HTTP/1.1\r\nHost: www.xianyz.com\r\nUser-Agent: Mozilla/5.0 (X11; Linux i686; rv:52.0 ) Gecko/20100101 Firefox/52.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: ASPSESSIONIDASSDBCAD=ONPANMLFCHMBOJHPNDBFFBOJK\r\nConnection: keep-alive\r\nUpgrade-Insecure-Requests: 1\r\n\r\n";
+    strcat(echo_line,busarr);
+    strcat(echo_line,echo_line2);
+    printf("echo_lint_len = %d\n",strlen(echo_line2));
     send(sock,echo_line,strlen(echo_line),0);
     printf("数据发送成功了\n");
-    char buf[10000];
-    char arr[10000];
+    char buf[5000];
+    char arr[5000];
     char *pin = buf;
     char *pout = arr;
-    memset(arr,0,10000);
-    size_t olen = 10000;
-    memset(buf,0,10000);
-    recv(sock,buf,9999,MSG_WAITALL);
-//    FILE* fp = fopen("txt", "a+");
-//
-//    fwrite(buf,sizeof(buf),1,fp);
-//    fclose(fp);
-
+    memset(arr,0,5000);
+    size_t olen = 5000;
+    memset(buf,0,5000);
+//  int mm =  recv(sock,buf,4999,MSG_WAITALL);
+    int m1 = recv(sock,buf,4999,0);
+    printf("buf len == %d\n",strlen(buf));
+    char buf2[5000];
+    memset(buf2,0,5000);
+    int m2 = recv(sock,buf2,4999,0);
+    printf("buf2 == %d\n",strlen(buf2));
+    strcat(buf,buf2);
 
     size_t len = strlen(buf); 
     printf("%d\n",len);
-    printf("aaaaaaaaaaaaaaaaaaaa\n");
     iconv_t cd = iconv_open("utf-8","gb2312");
-    printf("aaaaaaaaaaaaaaaaaaaa\n");
     if(cd == 0)
     {
         printf("error");
@@ -83,15 +91,18 @@ int connetser()
 //这里把recv函数返回的数值大小返回来，因为我们在读取数据的时候，可能存在一个问题就是，打印的时候可能遇到了\0然后就没有打印完全
 //
     printf("%s\n",arr);
-    printf("%d\n",len);
-    printf("%d",olen);
+    FILE* pf = fopen("hah.txt","a+");
+    printf("%d\n",fwrite(arr,1,strlen(arr),pf));
 
+    char *pread = arr;
+    while((*pread++) != 0  )
+    {
+if((*pread) >= 0x4e00 && (*pread) <= 0x9fbb)
+      printf("%c",*pread);
+    }
 
-//    FILE * fp = fopen("haha.html","W+");
-  //  fprintf(fp,"%s",buf);
-   // fclose(fp);
     return a;
-}
+ }
  
  int startup(const char* ip,int port)
  {
