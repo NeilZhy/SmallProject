@@ -12,7 +12,7 @@
  #include<string.h>
  #include<unistd.h>
  #include<sys/stat.h>
- 
+ #include<htmlcxx/html/ParserDom.h> 
  
  #define SUCCESS 0
  #define NOTICE 1

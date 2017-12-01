@@ -4,7 +4,7 @@ PLUGIN=$(ROOT_PATH)/plugin
 WWWROOT=$(ROOT_PATH)/wwwroot
  
 FLAGS=-D_STDOUT_ #-D_DEBUG_
-LDFLAGS=-lpthread
+LDFLAGS=-lpthread -lhtmlcxx
 cc=g++
 bin=httpd
 src=httpd.cpp main.cpp
