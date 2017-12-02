@@ -1522,3 +1522,4296 @@ body {
 
 </body>
 </html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 00:40:58 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=ICMKCGNACHEHKBFDLPBFELID; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 00:41:03 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=KCMKCGNANLBOBINFABAPMJDL; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 01:44:48 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=HENKCGNAKCFMHLKLAMGFBLFA; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 03:10:54 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=BHOKCGNAKDAEKFKHLABPJGBD; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 03:16:06 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=EIOKCGNAIPIPKNFAIIBLBBGD; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 03:37:58 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=KNOKCGNAODDIDGOPDGCBILEB; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 03:40:11 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=DOOKCGNADPBBBFFJHHNLNODD; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 03:41:11 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=EOOKCGNAGAEJPCPCNIIELAJM; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 03:41:52 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=FOOKCGNALCDPLDDAMCHALOMH; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 03:42:28 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=KOOKCGNAIJFIOLAHFMAPBFEA; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 03:42:44 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=NOOKCGNAEDCOGKPKLCKHMKMH; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 03:43:10 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=POOKCGNANPFMAFECMGNDFEBE; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+ HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 03:43:35 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=BPOKCGNAHPNHBKKPLPKOLJJJ; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+ HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 03:44:02 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=CPOKCGNAHFCLJEONKINAOLGC; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 03:44:27 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=EPOKCGNALPKFDAAKECNCKEBO; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 03:44:49 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=GPOKCGNACENMKHODLBHPCDNM; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+ HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:01:30 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=HCPKCGNAJAGMDLIMNNCDLNOI; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:02:47 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=OCPKCGNAIJJDJDHMMECBOCMM; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:03:21 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=PCPKCGNAMLLPFKKBNJMNDOCG; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:04:07 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=ADPKCGNAJHCEKDNFHIPODNIJ; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:10:52 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=DEPKCGNALNOABADNJCGOPMGA; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:11:30 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=IEPKCGNANGAPCMOHANGEJANA; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:15:08 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=OEPKCGNADMLHJAFHEOJJHHNF; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:17:02 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=CFPKCGNAPLJDBOBFGOPIAFPK; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:19:39 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=OFPKCGNAEIPFCJJGHKJENPCO; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:20:28 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=PFPKCGNALHHJOCHAJNIADDMC; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:21:00 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=AGPKCGNACIPDINIPEBIPIFPE; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:21:46 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=BGPKCGNAGBBPKLDELMGJHAMH; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:22:11 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=DGPKCGNAHLJGNJBCBNHNNJBL; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></stHTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:22:52 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=GGPKCGNAPLGPKDKLBPIGDKFO; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:27:16 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=IHPKCGNAAOCFFEKBOPOMIHPI; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:31:24 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=AIPKCGNAFGMKEPFMODEHNMHN; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:33:06 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=EIPKCGNAPEKBLHKAOGKLJFAF; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:33:31 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=IIPKCGNALJNPJMELNGPHDENH; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:33:55 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=KIPKCGNANLFBCJDIGBJCGMGF; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:34:15 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=MIPKCGNAMOIHABPPAMNMNEMC; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:34:51 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=CJPKCGNAHLANDHCEHGDKFCKI; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:36:20 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=FJPKCGNAMEFIMDJHAKBOAEFL; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:37:01 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=KJPKCGNACGEFPCMKPPMHJNEM; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:37:35 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3038
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=MJPKCGNACNPKKDMMOMFIHOAP; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>336路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30     23：00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元起步，伍角进位</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">西航花园、敬老院、八家什字、王家堡、未央湖(景家村)、桃花园山庄、草店子、陕西科技大学、杜家堡、吕小寨、河止西、雅荷城市花园、张家堡、尤家庄、图书馆、经济技术开发区、雅荷花园、公交六公司、方新村北、方新村、龙首村、北稍门、北关、北门、北大街、西华门</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:37:45 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3164
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=NJPKCGNAJPMDLMMEKJALEAJJ; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>719路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：30   19：30、</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;前三站伍角，以后每四站进位伍角</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;否</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">胡家庙(莲花家具)、加工厂、康复路北口、三府湾、多彩商城、火车站东     、西闸口南口、北门、北关、北稍门、龙首村、方新村、方新村北、公交六公司、雅荷花园、经济技术开发区、尤家庄、张家堡、河止西东村、高红小区、五二四厂、徐家湾、红旗厂 、红旗东路 、电梯厂、407库、郑家寺、湖北庄、陕西科技大学西安校区、西安工业学院未央校区、未央湖、王家堡、八家什字、敬老院、西航花园</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
+HTTP/1.1 200 OK
+Date: Sat, 02 Dec 2017 04:37:50 GMT
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+Content-Length: 3078
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDASTADDBD=OJPKCGNACBIAAGDCCCGDLGNG; path=/
+Cache-control: private
+X-Safe-Firewall: zhuji.360.cn 1.0.8.8 F1W1
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>公交线路查询结果</title>
+<link href="/xayz2011.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+body {
+	margin-top: 2px;
+}
+.style4 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="152" valign="top"><iframe name="left2" src="/top.htm"  width="800" height="234" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+<table width="200" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="800" height="8" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ><strong>您当前位置：</strong>西安运政网 -&gt; 公交线路查询结果</td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="200" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td ></td>
+        <td ></td>
+      </tr>
+</table>
+    <table width="487" height="424" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+  <tr align="center" bgcolor="#F0EFEC">
+    <td height="18" colspan="3"><strong><span class="style2"><font color=red>222路</font> 公交车详细信息</span></strong></td>
+  </tr>
+  <tr>
+    <td width="137" height="27" align="right"><strong>首末时间：</strong></td>
+    <td width="343">&nbsp;6：00  23:00</td>
+    <td width="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" align="right"><strong>票价：</strong></td>
+    <td>&nbsp;一元一票</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" align="right"><strong>IC卡是否可以使用：</strong></td>
+    <td>&nbsp;是</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="27" align="right"><strong>停靠站点：</strong></td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" rowspan="3">&nbsp;</td>
+    <td height="18" valign="top">金穗国际汽车学院、天台八路东口、西部汽车城、西宝立交、三桥交易市场、三桥、三桥东、造纸机械厂、三民村、枣园、城西客运站、面粉厂、丝绸群雕、西开公司、丰登路北口、家世界、劳动路、公交分局、西稍门、南小巷、西门、桥梓口、都城隍庙、广济街、钟楼、南门、文昌门(去)、围墙巷(回)、刁家村(去)、南稍门(回)、文艺路</td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25"><strong>&nbsp;&nbsp;<span class="style4">查询结果仅供参考，详细信息请与职能科室联系。</span></strong></td>
+  </tr>
+  <tr>
+    <td height="118">&nbsp;</td>
+  </tr>
+  
+</table>
+    <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="25"><iframe name="left2" src="/bottom.htm"  width="800" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>

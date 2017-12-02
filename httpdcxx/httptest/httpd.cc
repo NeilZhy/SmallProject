@@ -106,29 +106,32 @@ int connetser()
     tree<HTML::Node>::iterator end = dom.end();
 
 	//输出所有的超链接节点
-	for(;it != end ;++it)
-	{
-		if(strcasecmp(it->tagName().c_str(),"A") == 0)
-		{
-			it->parseAttributes();
-			cout<<it->attribute("href").second<<endl;
-		}
-	}
+//	for(;it != end ;++it)
+//	{
+//		if(strcasecmp(it->tagName().c_str(),"A") == 0)
+//		{
+//			it->parseAttributes();
+//			cout<<it->attribute("href").second<<endl;
+//		}
+//	}
 
-	//输出所有的文本节点内容
-	//for(;it != end;it++)
-	//{
-	//	if((!it->isTag()) && (!it->isComment()))
-	//	{
-	//		cout<<it->text();
-	//	}
-	//}
-	//char *pread = arr;
-    //while((*pread++) != 0  )
-    //{
-	//	if((*pread) <0 )
-	//	printf("%c",*pread);
-    //}
+    //输出所有的文本节点内容
+	it+=130;
+	cout<<it->text()<<endl;
+//	for(;it != end;it++)
+//	{
+//		if((!it->isTag()) && (!it->isComment()))
+//		//if(!it->isTag() )
+//		{
+//	    	cout<<it->text();
+//		}
+//	}
+//	char *pread = arr;
+//    while((*pread++) != 0  )
+//    {
+//    	if((*pread) <0 )
+//    	printf("%c",*pread);
+//    }
 	printf("\n");
     return a;
  }
