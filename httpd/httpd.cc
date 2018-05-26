@@ -249,7 +249,8 @@ int connetser(char *query_str)
 
 void *handler_request(void *arg)
 {
-	int sock = (int)arg;
+	unsigned long sock = (unsigned long)arg;
+	//int sock = (int)arg;
 #ifdef _DEBUG_
      char line[1024];
      do{

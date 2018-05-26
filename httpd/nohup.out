@@ -33602,3 +33602,2144 @@ lian jie cheng gong
 
 new_sock client_client_sock [2hahahah
 [Address already in use][FATAL]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6465]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6466]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6467]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6471]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6472]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6469]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6470]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6473]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6475]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6476]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6474]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6477]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6590]
+line : GET /?nsukey=pB3jAla%2BVh%2F3gxtcK4b0HEuCzR9Md5%2BWgU5jS5xH9lmokChtj9OfZIhk%2FaDR3LGabCnYDJ%2FqTxbnznzMxsDDJW3UOwMhdo8LkCnTDwO88B05tz0zQ5aFNYvxu03%2B6Yv1a5ErI29dn%2FV0cLR6ngoAggId7k4hRL%2FT%2B9hXvVgorKF0oJuGO6Khc9kbDFkt3aR9hhbq2ANnIXozy%2BUmTrtNKg%3D%3D HTTP/1.1
+
+method : GET url :/?nsukey=pB3jAla%2BVh%2F3gxtcK4b0HEuCzR9Md5%2BWgU5jS5xH9lmokChtj9OfZIhk%2FaDR3LGabCnYDJ%2FqTxbnznzMxsDDJW3UOwMhdo8LkCnTDwO88B05tz0zQ5aFNYvxu03%2B6Yv1a5ErI29dn%2FV0cLR6ngoAggId7k4hRL%2FT%2B9hXvVgorKF0oJuGO6Khc9kbDFkt3aR9hhbq2ANnIXozy%2BUmTrtNKg%3D%3D
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6592]
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6591]
+aaaaaaaaaaa
+
+
+长度为1752
+访问的页面不存在
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 1
+query_string:y=pB3jAla%2BVh%2F3gxtcK4b0HEuCzR9Md5%2BWgU5jS5xH9lmokChtj9OfZIhk%2FaDR3LGabCnYDJ%2FqTxbnznzMxsDDJW3UOwMhdo8LkCnTDwO88B05tz0zQ5aFNYvxu03%2B6Yv1a5ErI29dn%2FV0cLR6ngoAggId7k4hRL%2FT%2B9hXvVgorKF0oJuGO6Khc9kbDFkt3aR9hhbq2ANnIXozy%2BUmTrtNKg%3D%3D
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6607]
+line : GET /?nsukey=pB3jAla%2BVh%2F3gxtcK4b0HEuCzR9Md5%2BWgU5jS5xH9lmokChtj9OfZIhk%2FaDR3LGabCnYDJ%2FqTxbnznzMxsDDJW3UOwMhdo8LkCnTDwO88B05tz0zQ5aFNYvxu03%2B6Yv1a5ErI29dn%2FV0cLR6ngoAggId7k4hRL%2FT%2B9hXvVgorKF0oJuGO6Khc9kbDFkt3aR9hhbq2ANnIXozy%2BUmTrtNKg%3D%3D HTTP/1.1
+
+method : GET url :/?nsukey=pB3jAla%2BVh%2F3gxtcK4b0HEuCzR9Md5%2BWgU5jS5xH9lmokChtj9OfZIhk%2FaDR3LGabCnYDJ%2FqTxbnznzMxsDDJW3UOwMhdo8LkCnTDwO88B05tz0zQ5aFNYvxu03%2B6Yv1a5ErI29dn%2FV0cLR6ngoAggId7k4hRL%2FT%2B9hXvVgorKF0oJuGO6Khc9kbDFkt3aR9hhbq2ANnIXozy%2BUmTrtNKg%3D%3D
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6608]
+aaaaaaaaaaa
+
+
+长度为1752
+访问的页面不存在
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 1
+query_string:y=pB3jAla%2BVh%2F3gxtcK4b0HEuCzR9Md5%2BWgU5jS5xH9lmokChtj9OfZIhk%2FaDR3LGabCnYDJ%2FqTxbnznzMxsDDJW3UOwMhdo8LkCnTDwO88B05tz0zQ5aFNYvxu03%2B6Yv1a5ErI29dn%2FV0cLR6ngoAggId7k4hRL%2FT%2B9hXvVgorKF0oJuGO6Khc9kbDFkt3aR9hhbq2ANnIXozy%2BUmTrtNKg%3D%3D
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6609]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6616]
+line : GET /?nsukey=r0G23O1Q4g40agsMjVbzVEZWgphz1lnZ3Hv8nLTEFr5mMa7J8R7buE3TGeSXQzupz%2BlrxZcx4zZozyPHC6j4hImJ5fPOfCcIRHXkqo4i3%2FrxEiWuvS3yrTTx3kPCNtIbqGdtfXROD%2B0nL0Fp3x7oxrgoWGNeqgsf0C6fGS1o4GaXg6aUnEYI2DBITfdRHj0Dtl1oT9eWW01tBSmYl30BKQ%3D%3D HTTP/1.1
+
+method : GET url :/?nsukey=r0G23O1Q4g40agsMjVbzVEZWgphz1lnZ3Hv8nLTEFr5mMa7J8R7buE3TGeSXQzupz%2BlrxZcx4zZozyPHC6j4hImJ5fPOfCcIRHXkqo4i3%2FrxEiWuvS3yrTTx3kPCNtIbqGdtfXROD%2B0nL0Fp3x7oxrgoWGNeqgsf0C6fGS1o4GaXg6aUnEYI2DBITfdRHj0Dtl1oT9eWW01tBSmYl30BKQ%3D%3D
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6617]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6618]
+aaaaaaaaaaa
+
+
+长度为1752
+访问的页面不存在
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 1
+query_string:y=r0G23O1Q4g40agsMjVbzVEZWgphz1lnZ3Hv8nLTEFr5mMa7J8R7buE3TGeSXQzupz%2BlrxZcx4zZozyPHC6j4hImJ5fPOfCcIRHXkqo4i3%2FrxEiWuvS3yrTTx3kPCNtIbqGdtfXROD%2B0nL0Fp3x7oxrgoWGNeqgsf0C6fGS1o4GaXg6aUnEYI2DBITfdRHj0Dtl1oT9eWW01tBSmYl30BKQ%3D%3D
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6620]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [61.151.179.27 : 42928]
+line : GET /?nsukey=5BlNgbkeG0DvZic8NuJHcejT9OLeX9jbusRje2hqFCgyQCjvyvT2Fb4fjUSIHoWzKO9MbrGfAUXuL2B9B2BwVpJVj2qI2F4AmiLXtuhp3dakgylyCdHvb9W9L2oznyYrGJ0Ir22BwPw9nEY3OIPYlF9FOeNKzCahiKy2IgHpDnBr0Ugbb7qsBd8OYn4PG7wD2B2FKs3e8rUxo2FUI2rL42Hm0ZVhGA3D3D HTTP/1.1
+
+method : GET url :/?nsukey=5BlNgbkeG0DvZic8NuJHcejT9OLeX9jbusRje2hqFCgyQCjvyvT2Fb4fjUSIHoWzKO9MbrGfAUXuL2B9B2BwVpJVj2qI2F4AmiLXtuhp3dakgylyCdHvb9W9L2oznyYrGJ0Ir22BwPw9nEY3OIPYlF9FOeNKzCahiKy2IgHpDnBr0Ugbb7qsBd8OYn4PG7wD2B2FKs3e8rUxo2FUI2rL42Hm0ZVhGA3D3D
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+链接成功了
+
+新的链接sock  port [58.247.212.98 : 33554]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Accept: text/vnd.wap.wml,text/html,application/vnd.wap.xhtml+xml,application/xhtml+xml
+
+line : Accept-Charset: gb2312,iso8859-1,utf-8
+
+line : Accept-Encoding: gzip,deflate
+
+line : Connection: close
+
+line : Content-Length: 0
+
+line : Host: 111.230.233.159
+
+line : Q-UA: KQB22_GA/220020&KMTT_3/200020&JV2&151920&SunMicrosystemswtk&0&4309&V3
+
+line : User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9b4) Gecko/2008030317 Firefox/3.0b4
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [58.246.221.142 : 51442]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Accept: text/vnd.wap.wml,text/html,application/vnd.wap.xhtml+xml,application/xhtml+xml
+
+line : Accept-Charset: gb2312,iso8859-1,utf-8
+
+line : Accept-Encoding: gzip,deflate
+
+line : Connection: close
+
+line : Content-Length: 0
+
+line : Host: 111.230.233.159
+
+line : Q-UA: KQB22_GA/220020&KMTT_3/200020&JV2&151920&SunMicrosystemswtk&0&4309&V3
+
+line : User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9b4) Gecko/2008030317 Firefox/3.0b4
+
+line : 
+
+回显
+quit client ...
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+aaaaaaaaaaa
+
+
+长度为1752
+访问的页面不存在
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 1
+query_string:y=5BlNgbkeG0DvZic8NuJHcejT9OLeX9jbusRje2hqFCgyQCjvyvT2Fb4fjUSIHoWzKO9MbrGfAUXuL2B9B2BwVpJVj2qI2F4AmiLXtuhp3dakgylyCdHvb9W9L2oznyYrGJ0Ir22BwPw9nEY3OIPYlF9FOeNKzCahiKy2IgHpDnBr0Ugbb7qsBd8OYn4PG7wD2B2FKs3e8rUxo2FUI2rL42Hm0ZVhGA3D3D
+    line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+line : Accept-Charset: iso-8859-1,*,utf-8
+
+line : Accept-Encoding: gzip
+
+line : Accept-Language: en-us,en
+
+line : Cache-Control: no-cache
+
+line : Connection: close
+
+line : Cookie: lang=zh
+
+line : Host: 111.230.233.159
+
+line : User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.12 Mobile/11A501 Safari/8536.25 MicroMessenger/6.1.0
+
+line : UserAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.12 Mobile/11A501 Safari/8536.25 MicroMessenger/6.1.0
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [61.151.179.27 : 59637]
+链接成功了
+
+新的链接sock  port [101.226.86.154 : 47595]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; OPPO R9s Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile MQQBrowser/6.9 TBS/036906 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN
+
+line : Accept: */*
+
+line : Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+
+line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6640]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6638]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6639]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6641]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [101.226.86.156 : 60386]
+line : GET /?nsukey=5BlNgbkeG0DvZic8NuJHcejT9OLeX9jbusRje2hqFCgyQCjvyvT%2Fb4fjUSIHoWzKO9MbrGfAUXuL%2B9B%2BwVpJVj2qI%2F4AmiLXtuhp3dakgylyCdHvb9W9L2oznyYrGJ0Ir2%2BwPw9nEY3OIPYlF9FOeNKzCahiKy2IgHpDnBr0Ugbb7qsBd8OYn4PG7wD%2B%2FKs3e8rUxo%2FUI2rL42Hm0ZVhGA%3D%3D HTTP/1.1
+
+method : GET url :/?nsukey=5BlNgbkeG0DvZic8NuJHcejT9OLeX9jbusRje2hqFCgyQCjvyvT%2Fb4fjUSIHoWzKO9MbrGfAUXuL%2B9B%2BwVpJVj2qI%2F4AmiLXtuhp3dakgylyCdHvb9W9L2oznyYrGJ0Ir2%2BwPw9nEY3OIPYlF9FOeNKzCahiKy2IgHpDnBr0Ugbb7qsBd8OYn4PG7wD%2B%2FKs3e8rUxo%2FUI2rL42Hm0ZVhGA%3D%3D
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 1327]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 1333]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 1338]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+aaaaaaaaaaa
+
+
+长度为1752
+访问的页面不存在
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 1
+query_string:y=5BlNgbkeG0DvZic8NuJHcejT9OLeX9jbusRje2hqFCgyQCjvyvT%2Fb4fjUSIHoWzKO9MbrGfAUXuL%2B9B%2BwVpJVj2qI%2F4AmiLXtuhp3dakgylyCdHvb9W9L2oznyYrGJ0Ir2%2BwPw9nEY3OIPYlF9FOeNKzCahiKy2IgHpDnBr0Ugbb7qsBd8OYn4PG7wD%2B%2FKs3e8rUxo%2FUI2rL42Hm0ZVhGA%3D%3D
+    line : User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; OPPO R9s Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile MQQBrowser/6.9 TBS/036906 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN
+
+line : Accept: */*
+
+line : Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+
+line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6755]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6757]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6756]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6758]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6761]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6764]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6765]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6768]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6773]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+aaaaaaaaaaa
+
+
+长度为3038
+aaaaaaaaaaa
+
+
+长度为3038
+aaaaaaaaaaa
+
+
+长度为3038
+aaaaaaaaaaa
+
+
+长度为3038
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 2747]
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 2750]
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 2749]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 2748]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6825]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6826]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6827]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6829]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+line : 
+quit client ...
+line : 
+quit client ...
+line : 
+quit client ...
+aaaaaaaaaaa
+
+
+长度为3038
+[Address already in use][FATAL]
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6835]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 2711]
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 2713]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6844]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+line : 
+quit client ...
+line : 
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6893]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6891]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6892]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6894]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6899]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 2994]
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 2995]
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+line : 
+quit client ...
+line : 
+quit client ...
+aaaaaaaaaaa
+
+
+长度为3038
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 2999]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 2950]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+aaaaaaaaaaa
+
+
+长度为3038
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+aaaaaaaaaaa
+
+
+长度为3038
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6935]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 3003]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6940]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6941]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6942]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+line : 
+quit client ...
+aaaaaaaaaaa
+
+
+长度为3038
+aaaaaaaaaaa
+
+
+长度为3038
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6974]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6982]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6981]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6983]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+line : 
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 6999]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 7000]
+line : GET /?nsukey=r0G23O1Q4g40agsMjVbzVEZWgphz1lnZ3Hv8nLTEFr5mMa7J8R7buE3TGeSXQzupz%2BlrxZcx4zZozyPHC6j4hImJ5fPOfCcIRHXkqo4i3%2FrxEiWuvS3yrTTx3kPCNtIbqGdtfXROD%2B0nL0Fp3x7oxrgoWGNeqgsf0C6fGS1o4GaXg6aUnEYI2DBITfdRHj0Dtl1oT9eWW01tBSmYl30BKQ%3D%3D HTTP/1.1
+
+method : GET url :/?nsukey=r0G23O1Q4g40agsMjVbzVEZWgphz1lnZ3Hv8nLTEFr5mMa7J8R7buE3TGeSXQzupz%2BlrxZcx4zZozyPHC6j4hImJ5fPOfCcIRHXkqo4i3%2FrxEiWuvS3yrTTx3kPCNtIbqGdtfXROD%2B0nL0Fp3x7oxrgoWGNeqgsf0C6fGS1o4GaXg6aUnEYI2DBITfdRHj0Dtl1oT9eWW01tBSmYl30BKQ%3D%3D
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+aaaaaaaaaaa
+
+
+长度为3038
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 7007]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 7030]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 7031]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 7032]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+aaaaaaaaaaa
+
+
+长度为1752
+访问的页面不存在
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 1
+query_string:y=r0G23O1Q4g40agsMjVbzVEZWgphz1lnZ3Hv8nLTEFr5mMa7J8R7buE3TGeSXQzupz%2BlrxZcx4zZozyPHC6j4hImJ5fPOfCcIRHXkqo4i3%2FrxEiWuvS3yrTTx3kPCNtIbqGdtfXROD%2B0nL0Fp3x7oxrgoWGNeqgsf0C6fGS1o4GaXg6aUnEYI2DBITfdRHj0Dtl1oT9eWW01tBSmYl30BKQ%3D%3D
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+aaaaaaaaaaa
+
+
+长度为3038
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/?nsukey=r0G23O1Q4g40agsMjVbzVEZWgphz1lnZ3Hv8nLTEFr5mMa7J8R7buE3TGeSXQzupz%2BlrxZcx4zZozyPHC6j4hImJ5fPOfCcIRHXkqo4i3%2FrxEiWuvS3yrTTx3kPCNtIbqGdtfXROD%2B0nL0Fp3x7oxrgoWGNeqgsf0C6fGS1o4GaXg6aUnEYI2DBITfdRHj0Dtl1oT9eWW01tBSmYl30BKQ%3D%3D
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 7052]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 7051]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+aaaaaaaaaaa
+
+
+长度为3038
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 7067]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 2261]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 7111]
+line : GET / HTTP/1.1
+
+method : GET url :/
+path wwwroot/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 0
+
+
+
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 7112]
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 7110]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+aaaaaaaaaaa
+
+
+长度为3038
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/haha.html
+ cgi : 1
+query_string:336
+    line : Host: 111.230.233.159
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://111.230.233.159/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+回显
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.159 : 2254]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 7151]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+path wwwroot/favicon.ico
+文件路径不存在呢
+
+
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.24 : 7158]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+path wwwroot/haha.html
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cgi 1
+
+
+
+我们已经爬到了网站上面啦！！！
+请输入你要查询的车次：
+正在查询，请稍后
+aaaaaaaaaaa
+
+
+长度为3038

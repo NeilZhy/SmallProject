@@ -15,7 +15,7 @@ $(bin):$(obj)
 	$(CC) -g -o $@ $^ $(LDFLAGS)
 
 %.o:%.cc
-	$(CC) $(FLAGS) -c -g $< -o $@ 
+	$(CC) $(FLAGS)  -c -g $< -o $@ 
 
 .PHONY:clean
 clean:
